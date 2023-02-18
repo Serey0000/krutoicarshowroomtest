@@ -2,6 +2,7 @@
     <head>
             <title>Krutoi car showroom</title>
             <link rel="stylesheet" href="style.css"/>
+            <meta name="google-site-verification" content="AJNSfoTjgj1zeoaICW1U5lqz6f8WRUSLqpjdqsEUhek" />
     </head>
     <header>
         <img src="https://i.imgur.com/LHVXxyI.png">
